@@ -1,0 +1,31 @@
+nav{
+    height:1000px;
+   width:16rem;
+   position:absolute;
+
+}
+
+.s1{
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+}
+
+.navbar_top{
+    position:absolute;
+    left:0;
+}
+
+.nav-link span {
+    position: relative;
+    top: 2px;
+}
+
+    .nav-link span:hover {
+        color: slategrey;
+    }
+
+.addBtn{
+    transform: scale(.8);
+}

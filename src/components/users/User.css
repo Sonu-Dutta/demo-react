@@ -1,0 +1,30 @@
+input::placeholder{
+    font-size:.9rem;
+    color:black;
+}
+
+input[type="text"], input:not([type]) {
+    font-size: .9rem;
+}
+
+.error-msg{
+    font-size:.79rem;
+    position:absolute;
+}
+
+.form-group {
+    position: relative;
+}
+
+.form-icon{
+    color:gray;
+    position:absolute;
+    left:2%;
+    top:25%;
+}
+
+.add-icon{
+
+    width:70px !important;
+    height:70px !important;
+}
